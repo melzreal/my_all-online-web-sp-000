@@ -9,8 +9,8 @@ def my_all?(collection)
    end
 
    if vals.include(false)
-     false 
-   else 
-     true 
+     false
+   else
+     true
    end 
 end
